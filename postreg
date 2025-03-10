@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Thank You For Registering</title>
+        <link rel="stylesheet" href="login.css">
+    </head>
+<body style="background-color: rgb(10,20,30);">
+    <p style="font-size:30px; color:antiquewhite; text-align: center; font-family:cursive;">REGISTRATION SUCCESSFUL</p>
+     <a href="Nedco">
+<button class="payment">NEXT</button>                                  
+    </a>
+

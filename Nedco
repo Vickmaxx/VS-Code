@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+    <title>NEDCO</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="Logo.jpg">
+</head>
+<body>
+  <section class="Head" style="background-color: #05274e">
+    <span><img src="Logo.jpg" height="90px" align="right"></span>
+    <h1>NEDCO</h1>
+    <p>Breaching Technology Around The World</p>
+<span>
+    <a href="Contact">
+        <button ><b>CONTACT</b></button>
+    </a>
+    </span>
+<span>
+    <a href="About">
+        <button><b>ABOUT US</b></button>
+    </a>
+</span>
+<span>
+    <a href="https://ictexplora.wordpress.com/" target="_self">
+        <button><b>External Site</b></button>
+    </a>
+</span>
+    <hr>
+</section>
+    <br>
+    <br/>
+    <video src="ball.mp4" width="250" autoplay muted loop>Video not Supported</video>
+    <p>We are Here to Change Everything</p>
+<h1 id="sales"><u><b>SALES SECTION</u></b></h1>
+<img src="Adidas.jpeg" title="Grey Adidas Shirt" id="Shirt" width="500px">
+<br>
+<label for="Shirt"><b>Grey Adidas Shirt</b></label>
+<br>
+<span><button><del>$260</del></button></span>
+<a href="Payment" target="_self">
+<span><button>$190</button></span>
+</a>
+<br>
+<br>
+<br>
+<br>
+<img src="short.jpg" title="Black Adidas Shorts" id="short" width="500px">
+<label for="Shorts"><b>Black Adidas Shorts</b></label>
+<br>
+<span><button><del>$200</del></button></span>
+<a href="Payment" target="_blank">
+    <span><button>$145</button></span>
+</a>
+<br>
+<br>
+<br>
+<img src="Jordan 4.png" id="shoe" title="Air Jordan 4" width="500" height="500">
+<label for="shoe"><b>Black Nike Jordan 4</b></label>
+<br>
+<span><button><del>$120</del></button></span>
+<a href="Payment">
+<span><button>$100</button></span>
+</a>
+</body>
+</html>

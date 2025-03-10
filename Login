@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+    <h1>LOGIN</h1>
+        <br>
+        <img src="lock.jpg" alt="lock">
+        <br>
+        <br>
+        <form action="nedco" method="post">
+            <label for="user">Username</label>
+            <br>
+            <input id="user" type="text" placeholder="Charisma" required>
+        <br>
+        <br>
+            <label for="pass">Password</label>
+            <br>
+            <input id="pass" type="password" required>
+        <p>Don't have an Account <a href="Register">Register Here</a></p>
+            <br>
+            <input type="submit" value="Login" class="payment">
+        </form>
+    </div>
+</body>
+</html>

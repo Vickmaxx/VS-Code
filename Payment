@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Payment</title>
+        <link rel="icon" href="Logo.jpg">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+    <form action="Post" method="get">
+    <section class="pay" style="background-color: #05274e">
+        <h1>Payment Section</h1>
+        <span>
+         <a href="Nedco">
+             <button><b>HOME</b></button>
+         </a>
+     </span>
+     <span>
+         <a href="Contact">
+             <button ><b>CONTACT</b></button>
+         </a>
+         </span>
+     <span>
+         <a href="About">
+             <button><b>ABOUT US</b></button>
+         </a>
+     </span>
+        <hr>
+     </section>
+     
+    <h2>Please Fill In Your Payment Details</h2>
+    <section class="card type">
+        <label for="ct">Card Type</label>
+        <input id="ct" type="text" list="card" id="cards" required>
+        
+        <datalist id="card">
+            <option id="master">MasterCard</option>
+            <option id="Visa">Visa</option>
+            <option id="Western">Western Union</option>
+            <option id="paypal">Paypal</option>
+        </datalist>
+    </section>
+    <br>
+    <br>
+    <section class="card number">
+        <label for="cn">Card Number</label>
+        <input id="cn" type="text" placeholder="0123456789" required maxlength="10" minlength="0">
+    </section>
+    <br>
+    <br>
+    <section class="cvv">
+        <label for="cv">CVV</label>
+        <input type="text" placeholder="123" required maxlength="3" minlength="0">
+    </section>
+    <br>
+    <br>
+    <section class="pin">
+        <label for="pin">Pin</label>
+        <input type="password" required>
+    </section>
+    <br>
+    <br>
+  <section class="color">
+    <label for="col">Select Color</label>
+    <input type="color">
+  </section>
+  <br>
+  <br>
+    <input type="submit" value="PAY" class="payment">
+</form>
+</body>
+</html>
+        

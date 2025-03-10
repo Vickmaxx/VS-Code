@@ -1,0 +1,62 @@
+
+.container{
+    border-radius:60px;
+    background-color:rgb(10,20,30);
+    align-items:center;
+    padding-left:170px;
+    padding-right:100px;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+.cner{
+  background-color:rgb(10,20,30);
+
+}
+.payment{
+    background-color: #5c4cea;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    margin: 0;
+    outline: none;
+    padding: 10px 16px;
+    position: relative;
+    text-align: center;
+    text-decoration:none;
+    transition: color 100ms;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+ label{
+    color:antiquewhite;
+    text-align:center;
+  }
+  img{
+    border:8px solid rgb(40,50,60);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+  }
+  input{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    height:40px
+  }
+  h1{
+    color:rgb(253, 253, 253);
+    font-size:50px;
+  }

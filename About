@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <body>
+<head>
+    <link rel="stylesheet" href="about.css">
+    <link rel="icon" href="Logo.jpg">
+    <title>About Us</title>
+</head>
+<section class="about" style="background-color: #05274e">
+<h1><b>About Us</b></h1>
+<span>
+    <a href="Nedco">
+        <button><b>HOME</b></button>
+    </a>
+</span>
+<span>
+    <a href="Contact">
+        <button ><b>CONTACT</b></button>
+    </a>
+    </span>
+<span>
+    <a href="About">
+        <button><b>ABOUT US</b></button>
+    </a>
+</span>
+<hr>
+</section>
+<br>
+<br>
+<img src="About us.jpg" width="450px" height="280px">
+<br>
+<br>
+<p style="color:aqua">We are passionate ICT specialists, whose aims are to breach the world of Technology.</p>
+<p style="color:aqua">Build your eye catching websites and develop graphics just like this.</p>
+<p style="color:aqua">Dont Forget to <a href="Contact">Contact Us</a>.</p>
+<p style="color:aqua">Will be awaiting your responses. CIAO :-)</p>
+<br>
+<h1><u>What We Do</u></h1>
+    <ul style="color:indigo">
+        <li>Search Engine Optimization</li>
+        <li>Web Designs & Developments</li>
+        <li>E-commerce Solutions</li>
+    </ul>
+<p style="color:aqua">You can visit our <a href="Nedco#sales">Sales Section</a> to check out our Massive Discounts.</p>
+<br>
+<details>
+    <summary>Read More</summary>
+<p>This is just a test of the summary tag. Tag along, have some fun</p>
+</details>
+<br>
+<Footer>Copyright 2025 Nedco.com</Footer>
+</body>
+</html>

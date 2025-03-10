@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="login.css">
+        <link rel="icon" href="logo">
+        <title>Register</title>
+    </head>
+<body  class="cner">
+    <div>
+    <h1>REGISTER</h1>
+    <form action="postreg" method="post">
+        <label for="usne">First name</label>
+        <input id="usne" type="text" placeholder="Manuel" required>
+        <br>
+        <br>
+        <label for="lnm">Last Name</label>
+        <input type="text" id="lnm" placeholder="David" required>
+        <br>
+        <br>
+        <label for="pswr">Password</label>
+        <input id="pswr" type="password" required>
+        <br>
+        <br>
+        <label for="dob">D.O.B</label>
+        <input id="dob" type="date" required> 
+        <br>
+        <br>
+        <label for="pic">Insert Your Picture</label>
+        <input id="pic" type="file" required>
+        <br>
+        <br>
+        <input type="submit" value="Register" class="payment" required>
+    </form>
+    </div>
+</body>
+</html>
