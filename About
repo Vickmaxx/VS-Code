@@ -48,6 +48,6 @@
 <p>This is just a test of the summary tag. Tag along, have some fun</p>
 </details>
 <br>
-<Footer>&copy; 2025 Nedco.com</Footer>
+<Footer><b>&copy; 2025 Nedco.com</b></Footer>
 </body>
 </html>

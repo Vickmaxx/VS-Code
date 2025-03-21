@@ -7,7 +7,7 @@
 </head>
 <body>
   <section class="Head" style="background-color: #05274e">
-    <span><img src="Logo.jpg" height="90px" align="right"></span>
+    <span><img src="Logo.jpg" height="90px" style="float:right;"></span>
     <h1>NEDCO</h1>
     <p>Breaching Technology Around The World</p>
 <span>
@@ -31,7 +31,7 @@
     <br/>
     <video src="ball.mp4" width="250" autoplay muted loop>Video not Supported</video>
     <p>We are Here to Change Everything</p>
-<h1 id="sales"><u><b>SALES SECTION</u></b></h1>
+<h1 id="sales" class="apaty"><u><b>SALES SECTION</u></b></h1>
 <img src="Adidas.jpeg" title="Grey Adidas Shirt" id="Shirt" width="500px">
 <br>
 <label for="Shirt"><b>Grey Adidas Shirt</b></label>

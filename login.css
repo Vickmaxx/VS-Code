@@ -1,13 +1,13 @@
-
 .container{
+  background-image: url('River.jpg');
     border-radius:60px;
-    background-color:rgb(10,20,30);
     align-items:center;
     padding-left:170px;
     padding-right:100px;
     padding-top:100px;
     padding-bottom:100px;
 }
+
 .cner{
   background-color:rgb(10,20,30);
 
