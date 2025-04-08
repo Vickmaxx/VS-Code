@@ -78,3 +78,6 @@ button {
   -webkit-user-select: none;
   touch-action: manipulation;
 }
+.apaty img, label{
+  float:left;
+}

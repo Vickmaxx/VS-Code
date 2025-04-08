@@ -31,9 +31,10 @@
     <br/>
 <span>
     <video src="ball.mp4" width="250" style="float:left;" autoplay muted loop>Video not Supported</video>
-    <img src="River.jpg" height="150px" width="250" style="float:right";>
     <p>We are Here to Change Everything</p>
 </span>
+<br>
+<br>
 <h1 id="sales" class="apaty"><u><b>SALES SECTION</u></b></h1>
 <img src="Adidas.jpeg" title="Grey Adidas Shirt" id="Shirt" width="500px">
 <br>
@@ -41,13 +42,14 @@
 <br>
 <span><button><del>$260</del></button></span>
 <a href="Payment" target="_self">
-<span><button>$190</button></+>
+<span><button>$190</button></span>
 </a>
 <br>
 <br>
 <br>
 <br>
 <img src="short.jpg" title="Black Adidas Shorts" id="short" width="500px">
+<br>
 <label for="Shorts"><b>Black Adidas Shorts</b></label>
 <br>
 <span><button><del>$200</del></button></span>
@@ -58,6 +60,7 @@
 <br>
 <br>
 <img src="Jordan 4.png" id="shoe" title="Air Jordan 4" width="500" height="500">
+<br>
 <label for="shoe"><b>Black Nike Jordan 4</b></label>
 <br>
 <span><button><del>$120</del></button></span>
